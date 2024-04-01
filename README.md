@@ -1,11 +1,9 @@
-# React JS University Website Project | Tutorial for Beginners
-
-## First Part YouTube link - [React JS University Website Project | Tutorial for Beginners - PART 1](https://youtu.be/v5GmKHncNB8?si=rkyGaFEDfJx_IFIr)
-## Second Part YouTube link - [React JS Project University Website Tutorial With Bootstrap 5 From Scratch - PART 2](https://youtu.be/KnncqbOLwo4?si=H_0O4W_56iP5pKeJ)
+# React JS University Website Project
 
 <img src="React JS University Website Img.jpg" alt="React JS University Website" />
 
 ## For this website I used:
+
 - [React JS](https://react.dev/)
 - [Visual Studio Code Editor](https://code.visualstudio.com/)
 - [Bootstrap 5](https://getbootstrap.com/) - CSS Framework

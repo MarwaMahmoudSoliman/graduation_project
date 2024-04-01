@@ -1,0 +1,21 @@
+.ind__course{
+    background-color: rgb(185, 185, 185);
+}
+.course__by{
+    font-size: x-large;
+    text-align: center;
+}
+.ind__course__img{
+  width: 880px;
+  margin: auto;
+  margin-top: 80px;
+  border-radius: 30%;
+  -webkit-border-radius: 30%;
+  -moz-border-radius: 30%;
+  -ms-border-radius: 30%;
+  -o-border-radius: 30%;
+  text-shadow: 20px 30px;
+}
+.course__desc{
+    color: rgb(255, 255, 255);
+}
